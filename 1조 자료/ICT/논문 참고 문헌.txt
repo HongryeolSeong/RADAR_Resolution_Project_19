@@ -1,0 +1,9 @@
+http://www.kama.or.kr/jsp/webzine/201805/pages/report_01.jsp
+차량용+레이더+센서의+현황+및+연구개발+동향.pdf
+https://training.ti.com/intro-mmwave-sensing-fmcw-radars-module-1-range-estimation?cu=1128486
+책
+책
+https://e2e.ti.com/support/sensors/f/1023/t/675958?tisearch=e2e-sitesearch&keymatch=awr1642%20signal%20interference
+AWR1642 mmWave sensor: 76~81-GHz radar-on-chip for short-range radar applications
+http://www.epnc.co.kr/news/articleView.html?idxno=80816 
+https://www.rs-online.com/designspark/lidar-radar-digital-cameras-the-eyes-of-autonomous-vehicles
